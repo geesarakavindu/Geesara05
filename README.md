@@ -146,10 +146,12 @@
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geesara05&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geesara05&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Geesara05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geesara05&theme=tokyonight&hide_border=true&background=1a1b26&stroke=1a1b26&sideLabels=true" alt="GitHub Streak" />
+</p>
 ---
 
 <p align="center">
