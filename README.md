@@ -1,79 +1,138 @@
 <div align="center">
 
+<sub>DATA ENGINEERING · SOFTWARE DEVELOPMENT · CLOUD</sub>
+
 # Geesara Kavindu Jayawardhana
 
-**Data Engineering Intern · Software Developer**
+### From complex data to useful products.
 
-Building data pipelines and thoughtful software that turn complex information into useful experiences.
+Data Engineering Intern at **Dialog Axiata PLC**<br />
+Computer Science & Mobile App Development Undergraduate<br />
+**NSBM Green University · University of Plymouth**
 
-<a href="mailto:geesarakavindu0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Contact Geesara by email" /></a>
-<a href="https://github.com/Geesara05"><img src="https://img.shields.io/badge/GitHub-Geesara05-181717?style=flat-square&logo=github&logoColor=white" alt="Geesara05 on GitHub" /></a>
+<br />
 
-[About](#about) · [Experience](#experience) · [Selected projects](#selected-projects) · [Technical toolkit](#technical-toolkit) · [Connect](#connect)
+<a href="mailto:geesarakavindu0@gmail.com"><img src="https://img.shields.io/badge/Email-Let%E2%80%99s_connect-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Geesara" /></a>
+<a href="https://github.com/Geesara05"><img src="https://img.shields.io/badge/GitHub-Geesara05-181717?style=for-the-badge&logo=github&logoColor=white" alt="Geesara05 on GitHub" /></a>
+
+<br /><br />
+
+[Profile](#profile) &nbsp; / &nbsp; [Projects](#selected-projects) &nbsp; / &nbsp; [Tech stack](#tech-stack) &nbsp; / &nbsp; [Connect](#lets-connect)
 
 </div>
 
 ---
 
-## About
+## Profile
 
-I'm Geesara, a Computer Science and Mobile Application Development undergraduate at **NSBM Green University & the University of Plymouth**, with a focus on data engineering and software development.
+I'm Geesara, a developer interested in how data moves from raw information to practical applications. My work and learning connect **data engineering**, **recommendation systems**, and **web and mobile development**.
 
-My interests span the full journey from collecting and transforming data to building applications that make it accessible. I’m particularly interested in automated pipelines, recommendation systems, and cloud data platforms.
-
-## Experience
-
-**Data Engineering Intern · Dialog Axiata PLC**<br />
-Enterprise & Fixed Voice Core DevOps
-
-My technical focus includes automated data pipelines, machine learning models, and data warehousing, alongside continued study in software development and statistics.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Experience</h3>
+<strong>Data Engineering Intern</strong><br />
+Dialog Axiata PLC<br />
+<sub>Enterprise & Fixed Voice Core DevOps</sub>
+<p>Technical interests include pipeline automation, machine learning models, and data warehousing.</p>
+</td>
+<td width="50%" valign="top">
+<h3>Education & direction</h3>
+<strong>Computer Science & Mobile App Development</strong><br />
+NSBM Green University & University of Plymouth
+<p>Exploring cloud data platforms, Microsoft Fabric, and the connection between data systems and user-facing software.</p>
+</td>
+</tr>
+</table>
 
 ## Selected projects
 
-### Book-Bridge
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>MOBILE · RECOMMENDATION SYSTEMS</sub>
+<h3>Book-Bridge</h3>
+<p>A mobile book marketplace with a recommendation engine to help readers discover relevant titles.</p>
+<p><strong>Application:</strong> Flutter & Firebase<br />
+<strong>Recommendations:</strong> Python & PySpark</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/flutter/flutter-original.svg" width="28" height="28" alt="Flutter" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/firebase/firebase-original.svg" width="28" height="28" alt="Firebase" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="28" height="28" alt="Python" />
+</td>
+<td width="50%" valign="top">
+<sub>WEB · EDUCATION</sub>
+<h3>Student Result & Progress System</h3>
+<p>A web frontend for presenting student results and academic progress.</p>
+<p><strong>Focus:</strong> Organizing academic information into a clear, accessible interface.<br />
+<strong>Area:</strong> Frontend web development.</p>
+</td>
+</tr>
+</table>
 
-A mobile marketplace for books, paired with a recommendation engine to help readers discover relevant titles.
+## Tech stack
 
-- **Application:** Flutter and Firebase.
-- **Recommendations:** Python and PySpark.
-- **Focus:** Connecting a mobile experience with data-driven discovery.
+A toolkit spanning data processing, application development, and cloud infrastructure.
 
-### Student Result and Progress System
+### Languages
 
-A web frontend for presenting student results and academic progress.
+<table>
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="36" height="36" alt="Python" /><br /><sub>Python</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" width="36" height="36" alt="Java" /><br /><sub>Java</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dart/dart-original.svg" width="36" height="36" alt="Dart" /><br /><sub>Dart</sub></td>
+</tr>
+</table>
 
-- **Focus:** Organizing academic information into a clear, accessible interface.
-- **Area:** Frontend web development.
+### Data & application development
 
-## Technical toolkit
+<table>
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachespark/apachespark-original.svg" width="36" height="36" alt="Apache Spark" /><br /><sub>Apache Spark</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /><br /><sub>MySQL</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" /><br /><sub>Flutter</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="36" height="36" alt="React" /><br /><sub>React</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/firebase/firebase-original.svg" width="36" height="36" alt="Firebase" /><br /><sub>Firebase</sub></td>
+</tr>
+</table>
 
-| Area | Technologies |
-| :--- | :--- |
-| Languages | Python, SQL, Java, JavaScript, Dart |
-| Data & analytics | PySpark, MySQL, Power BI |
-| Applications | Flutter, React, Firebase |
-| Cloud & development tools | Azure, Docker, Linux, Git, Figma |
+### Cloud & developer tools
 
-## Currently exploring
+<table>
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" /><br /><sub>Azure</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /><br /><sub>Docker</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /><br /><sub>Linux</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="36" height="36" alt="Git" /><br /><sub>Git</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /><br /><sub>Figma</sub></td>
+</tr>
+</table>
 
-- Data engineering and pipeline automation.
-- Cloud data platforms, including Microsoft Fabric.
-- Recommendation systems and machine learning.
-- Full-stack web and mobile application development.
+**Also working with:** SQL · Power BI · PySpark
 
-## Beyond the keyboard
+## Current focus
+
+- **Data systems:** automated pipelines, data warehousing, and recommendation engines.
+- **Cloud platforms:** Azure and Microsoft Fabric.
+- **Product development:** full-stack web applications and mobile experiences.
+
+<details>
+<summary><strong>Beyond the keyboard</strong></summary>
 
 Outside technology, I enjoy strength training, motorcycle mechanics, and designing digital assets for local events.
 
-## Connect
-
-I'm interested in conversations about data engineering, software development, and opportunities to build useful products.
-
-**Email:** [geesarakavindu0@gmail.com](mailto:geesarakavindu0@gmail.com)<br />
-**GitHub:** [@Geesara05](https://github.com/Geesara05)
+</details>
 
 ---
 
 <div align="center">
+
+## Let's connect
+
+Interested in data engineering, software development, or building something useful together?
+
+[geesarakavindu0@gmail.com](mailto:geesarakavindu0@gmail.com) &nbsp; · &nbsp; [GitHub](https://github.com/Geesara05)
+
 <sub>Building useful software. Learning through practice.</sub>
+
 </div>
